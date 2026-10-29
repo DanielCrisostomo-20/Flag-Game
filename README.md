@@ -51,9 +51,6 @@ Assista à apresentação do aplicativo no YouTube:
 
 [▶️ Assistir ao vídeo do Flag Game](https://youtu.be/u7YJ8iSWoBE)
 
-## Repositório GitHub
-
-[🔗 Acessar o código-fonte do Flag Game](https://github.com/DanielCrisostomo-20/Flag-Game)
 
 ## Autor
 
